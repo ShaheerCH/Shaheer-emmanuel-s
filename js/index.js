@@ -1,2 +1,2 @@
-const projectName = 'Tribute page by Shaheer & Emmanuel';
+const projectName = 'Product Landing Page by Shaheer & Emmanuel';
 "use strict";
